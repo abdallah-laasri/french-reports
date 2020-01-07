@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/french-report/static/css/main.cecfb0a0.chunk.css",
+    "main.js": "/french-report/static/js/main.0cebc5d0.chunk.js",
+    "main.js.map": "/french-report/static/js/main.0cebc5d0.chunk.js.map",
+    "runtime-main.js": "/french-report/static/js/runtime-main.87428b8c.js",
+    "runtime-main.js.map": "/french-report/static/js/runtime-main.87428b8c.js.map",
+    "static/js/2.74c07f1f.chunk.js": "/french-report/static/js/2.74c07f1f.chunk.js",
+    "static/js/2.74c07f1f.chunk.js.map": "/french-report/static/js/2.74c07f1f.chunk.js.map",
+    "index.html": "/french-report/index.html",
+    "precache-manifest.3356de7c79db73c037804cc0d29e8ebc.js": "/french-report/precache-manifest.3356de7c79db73c037804cc0d29e8ebc.js",
+    "service-worker.js": "/french-report/service-worker.js",
+    "static/css/main.cecfb0a0.chunk.css.map": "/french-report/static/css/main.cecfb0a0.chunk.css.map",
+    "static/js/2.74c07f1f.chunk.js.LICENSE": "/french-report/static/js/2.74c07f1f.chunk.js.LICENSE",
+    "static/media/report.svg": "/french-report/static/media/report.d84b6f8b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87428b8c.js",
+    "static/js/2.74c07f1f.chunk.js",
+    "static/css/main.cecfb0a0.chunk.css",
+    "static/js/main.0cebc5d0.chunk.js"
+  ]
+}
