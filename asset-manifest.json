@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/french-report/static/css/main.cecfb0a0.chunk.css",
-    "main.js": "/french-report/static/js/main.0cebc5d0.chunk.js",
-    "main.js.map": "/french-report/static/js/main.0cebc5d0.chunk.js.map",
-    "runtime-main.js": "/french-report/static/js/runtime-main.87428b8c.js",
-    "runtime-main.js.map": "/french-report/static/js/runtime-main.87428b8c.js.map",
-    "static/js/2.74c07f1f.chunk.js": "/french-report/static/js/2.74c07f1f.chunk.js",
-    "static/js/2.74c07f1f.chunk.js.map": "/french-report/static/js/2.74c07f1f.chunk.js.map",
-    "index.html": "/french-report/index.html",
-    "precache-manifest.3356de7c79db73c037804cc0d29e8ebc.js": "/french-report/precache-manifest.3356de7c79db73c037804cc0d29e8ebc.js",
-    "service-worker.js": "/french-report/service-worker.js",
-    "static/css/main.cecfb0a0.chunk.css.map": "/french-report/static/css/main.cecfb0a0.chunk.css.map",
-    "static/js/2.74c07f1f.chunk.js.LICENSE": "/french-report/static/js/2.74c07f1f.chunk.js.LICENSE",
-    "static/media/report.svg": "/french-report/static/media/report.d84b6f8b.svg"
+    "main.css": "/french-reports/static/css/main.cecfb0a0.chunk.css",
+    "main.js": "/french-reports/static/js/main.0cebc5d0.chunk.js",
+    "main.js.map": "/french-reports/static/js/main.0cebc5d0.chunk.js.map",
+    "runtime-main.js": "/french-reports/static/js/runtime-main.465f592d.js",
+    "runtime-main.js.map": "/french-reports/static/js/runtime-main.465f592d.js.map",
+    "static/js/2.fe052cf9.chunk.js": "/french-reports/static/js/2.fe052cf9.chunk.js",
+    "static/js/2.fe052cf9.chunk.js.map": "/french-reports/static/js/2.fe052cf9.chunk.js.map",
+    "index.html": "/french-reports/index.html",
+    "precache-manifest.47a8fd3d28773d37be791f9b5b26aa23.js": "/french-reports/precache-manifest.47a8fd3d28773d37be791f9b5b26aa23.js",
+    "service-worker.js": "/french-reports/service-worker.js",
+    "static/css/main.cecfb0a0.chunk.css.map": "/french-reports/static/css/main.cecfb0a0.chunk.css.map",
+    "static/js/2.fe052cf9.chunk.js.LICENSE": "/french-reports/static/js/2.fe052cf9.chunk.js.LICENSE",
+    "static/media/report.svg": "/french-reports/static/media/report.d84b6f8b.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.87428b8c.js",
-    "static/js/2.74c07f1f.chunk.js",
+    "static/js/runtime-main.465f592d.js",
+    "static/js/2.fe052cf9.chunk.js",
     "static/css/main.cecfb0a0.chunk.css",
     "static/js/main.0cebc5d0.chunk.js"
   ]
